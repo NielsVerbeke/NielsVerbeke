@@ -41,11 +41,7 @@ Ik ben vooral bezig met kleine projecten op mijn **Raspberry Pi**, waarin ik lee
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/niels-verbeke-b41256269" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niels Verbeke LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- 💼 LinkedIn: [linkedin.com/in/niels-verbeke-b41256269](https://www.linkedin.com/in/niels-verbeke-b41256269)
 
 ---
 
