@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey Niels hier!
 
-<!--
-**NielsVerbeke/NielsVerbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welkom op mijn GitHub-profiel! Leuk dat je even langskomt.
 
-Here are some ideas to get you started:
+## 🧑 Over mij
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student **Toegepaste Informatica** aan **Hogent**
+- 💻 Gespecialiseerd in **Systeem- en Netwerkbeheer**
+- 🛠️ Werkervaring met onder andere:
+  - 🔐 **Palo Alto**
+  - ☁️ **Microsoft Azure**
+  - 🐍 **Python**
+  - 🧰 En nog veel meer...
+
+## 🌱 Wat ik doe
+
+Ik ben vooral bezig met kleine projecten op mijn Raspberry Pi. Daarnaast vind ik cybersecurity ook altijd zeer interessant om extra kennis over bij te leren.
+
+## 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/niels-verbeke-b41256269](https://www.linkedin.com/in/niels-verbeke-b41256269)
+
+---
+
+> Bedankt voor je bezoek! Neem gerust een kijkje bij mijn repositories 👇
